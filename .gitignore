@@ -1,0 +1,12 @@
+/pic_firmware.X/build/
+/pic_firmware.X/dist/
+
+# Ignore Makefile outputs
+*.o
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.symvers
+*.order
+*.cmd
