@@ -1,0 +1,1 @@
+savedcmd_/home/vinuka/Documents/Projects/Custom/pic_lkm_development/kernel_module/led_lkm.mod := printf '%s\n'   led_lkm.o | awk '!x[$$0]++ { print("/home/vinuka/Documents/Projects/Custom/pic_lkm_development/kernel_module/"$$0) }' > /home/vinuka/Documents/Projects/Custom/pic_lkm_development/kernel_module/led_lkm.mod

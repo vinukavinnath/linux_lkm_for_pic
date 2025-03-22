@@ -1,0 +1,1 @@
+savedcmd_/home/vinuka/Documents/Projects/Custom/pic_lkm_development/kernel_module/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/vinuka/Documents/Projects/Custom/pic_lkm_development/kernel_module/Module.symvers -T /home/vinuka/Documents/Projects/Custom/pic_lkm_development/kernel_module/modules.order -i Module.symvers -e 
