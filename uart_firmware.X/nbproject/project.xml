@@ -3,9 +3,13 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>pic_firmware</name>
-            <creation-uuid>c0878022-43a7-4505-8349-0e6ced627deb</creation-uuid>
+            <name>uart_firmware</name>
+            <creation-uuid>4a569fef-34a7-46a3-bf74-12b242fc96c6</creation-uuid>
             <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions/>
+            <asminc-extensions/>
             <sourceEncoding>ISO-8859-1</sourceEncoding>
             <make-dep-projects/>
             <sourceRootList/>

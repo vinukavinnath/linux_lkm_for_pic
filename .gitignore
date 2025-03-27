@@ -10,3 +10,7 @@
 *.symvers
 *.order
 *.cmd
+
+# Ignore build files
+/uart_firmware.X/build/
+/uart_firmware.X/dist/
