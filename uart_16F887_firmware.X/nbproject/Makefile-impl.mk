@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=uart_firmware.X
+PROJECTNAME=uart_16F887_firmware.X
 
 # Active Configuration
 DEFAULTCONF=default

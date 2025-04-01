@@ -14,3 +14,5 @@
 # Ignore build files
 /uart_firmware.X/build/
 /uart_firmware.X/dist/
+/uart_16F887_firmware.X/dist/
+/uart_16F887_firmware.X/build/
